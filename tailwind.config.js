@@ -8,9 +8,9 @@ export default {
     extend: {},
     colors: {
       'product-bluedark': '#1E6F9F',
-      'product-blue': '#1E6F9F',
-      'product-purpledark': '#1E6F9F',
-      'product-purple': '#1E6F9F',
+      'product-blue': '#4EA8DE',
+      'product-purpledark': '#5E60CE',
+      'product-purple': '#8284FA',
 
       'base-gray-700': '#0D0D0D',
       'base-gray-600': '#1A1A1A',
