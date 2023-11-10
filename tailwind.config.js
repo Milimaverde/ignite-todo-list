@@ -1,9 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: [
-    "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}",
-  ],
+  content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
   theme: {
     extend: {},
     colors: {
@@ -21,8 +18,7 @@ export default {
       'base-gray-100': '#F2F2F2',
 
       'danger-red': '#E25858',
+    },
   },
-  },
-  plugins: [],
+  plugins: [require('@tailwindcss/forms')],
 }
-
