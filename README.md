@@ -6,8 +6,7 @@ Este projeto foi desenvolvido como parte de um desafio pessoal, com o design UI/
 
 ![Imagem do projeto - To do list](src/assets/todolist.png)
 
-
-
+---
 
 ## Visão Geral
 
@@ -33,4 +32,4 @@ O To-Do List é uma aplicação simples que permite aos usuários adicionar, edi
 
 ---
 
-Feito com ❤️ por Ana Millena Limaverde 
+--> Feito com ❤️ por Ana Millena Limaverde 
