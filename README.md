@@ -1,27 +1,29 @@
-# React + TypeScript + Vite
+# To-Do List Challenge
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto foi desenvolvido como parte de um desafio pessoal, com o design UI/UX fornecido pela Rocketseat. O objetivo era criar uma aplicação de lista de tarefas (To-Do List) na qual utilizei React, Tailwind CSS e TypeScript.
 
-Currently, two official plugins are available:
+## Visão Geral
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+O To-Do List é uma aplicação simples que permite aos usuários adicionar, editar e excluir tarefas. Ele oferece uma interface intuitiva e amigável, baseada no design fornecido pela Rocketseat.
 
-## Expanding the ESLint configuration
+## Funcionalidades
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- Adição de tarefas
+- Edição de tarefas
+- Remoção de tarefas
+- Marcação de tarefas como concluídas
+- Filtro de tarefas por status (todas, concluídas, não concluídas)
 
-- Configure the top-level `parserOptions` property like this:
+## Tecnologias Utilizadas
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+- [React](https://reactjs.org/) - Biblioteca JavaScript para construção de interfaces de usuário.
+- [Tailwind CSS](https://tailwindcss.com/) - Framework de estilos utilitários.
+- [TypeScript](https://www.typescriptlang.org/) - Superset JavaScript que adiciona tipagem estática opcional.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Uso
+
+1. Abra o navegador e acesse: ignite-todo-list-liart.vercel.app
+
+---
+
+Feito com ❤️ por Ana Millena Limaverde 
