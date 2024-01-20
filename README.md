@@ -2,6 +2,13 @@
 
 Este projeto foi desenvolvido como parte de um desafio pessoal, com o design UI/UX fornecido pela Rocketseat. O objetivo era criar uma aplicação de lista de tarefas (To-Do List) na qual utilizei React, Tailwind CSS e TypeScript.
 
+---
+
+![Imagem do projeto - To do list](src/assets/todolist.png)
+
+
+
+
 ## Visão Geral
 
 O To-Do List é uma aplicação simples que permite aos usuários adicionar, editar e excluir tarefas. Ele oferece uma interface intuitiva e amigável, baseada no design fornecido pela Rocketseat.
